@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_form:
-  -/about/
-  -/about.html
+  - /about/
+  - /about.html
 ---
 
 ## About Me
