@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_form:
+  -/about/
+  -/about.html
+---
+
 ## About Me
 
 I am currently a **Lecturer** in the Department of Information Technology and Electronical Systems Engineering at **Daiichi Institute of Technology**, Japan, and a **doctoral candidate** at the Graduate School of Human Sciences, **Waseda University**. I received my Master’s degree in Computer Science from the **University of Aizu** in 2021.
